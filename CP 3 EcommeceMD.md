@@ -1,4 +1,4 @@
-# ***`Capstone Modul 3 Ecommerce Churn`***
+# ***`Capstone Module 3 Ecommerce Churn`***
 ___
 # **Business Backgoruond and Problem**
 ## *`Background`*
